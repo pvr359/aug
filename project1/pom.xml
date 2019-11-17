@@ -55,6 +55,15 @@
                         <!-- 配置项目在容器中的根路径 -->
                         <contextPath>${project.contextPath}</contextPath>
                     </webApp>
+                         
+                         
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-war-plugin</artifactId>
+			<version>2.6</version>
+			<configuration>
+				<failOnMissingWebXml>false</failOnMissingWebXml>
+			
+		</plugin>
                     <connectors>
                         <connector implementation="org.eclipse.jetty.server.nio.SelectChannelConnector">
                             <!-- 端口 -->

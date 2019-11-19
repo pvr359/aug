@@ -36,7 +36,7 @@
             <groupId>com.lodsve</groupId>
             <artifactId>lodsve-core</artifactId>
       
-            <groupId>com.lodsve</groupId>
+           
             <artifactId>lodsve-web</artifactId>
         </dependency>
     </dependencies>

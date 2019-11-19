@@ -22,7 +22,7 @@
     <dependencyManagement>
         <dependencies>
             <dependency>
-                <groupId>com.lodsve</groupId>
+                <groupId>com.tcs</groupId>
                 <artifactId>lodsve-framework</artifactId>
                 <version>${lodsve.version}</version>
                 <type>pom</type>
@@ -35,8 +35,7 @@
         <dependency>
             <groupId>com.lodsve</groupId>
             <artifactId>lodsve-core</artifactId>
-        </dependency>
-        <dependency>
+      
             <groupId>com.lodsve</groupId>
             <artifactId>lodsve-web</artifactId>
         </dependency>

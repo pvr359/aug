@@ -37,7 +37,7 @@
             <artifactId>lodsve-core</artifactId>
       
            
-            <artifactId>lodsve-web</artifactId>
+            
         </dependency>
     </dependencies>
 

@@ -64,7 +64,7 @@
     </configuration>
 			
 			
-		</plugin>
+		
                     <connectors>
                         <connector implementation="org.eclipse.jetty.server.nio.SelectChannelConnector">
                             <!-- 端口 -->
